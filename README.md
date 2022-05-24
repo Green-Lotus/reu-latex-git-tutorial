@@ -301,7 +301,9 @@ git push -u origin main
 
 ---
 
-## git Cheatsheet
+## Cheat Sheets
+
+### git Cheatsheet
 
 **First-time setup**:
 
@@ -330,7 +332,7 @@ git remote add origin https://github.com/your-user/your-repo.git
 git push -u origin main
 ```
 
-## Bash/Terminal Cheatsheet
+### Bash/Terminal Cheatsheet
 
 **Moving around**:
 
