@@ -286,6 +286,21 @@ git push -u origin main
 
 ---
 
+## Homework
+
+1. Write a reflection about the "Saving Data and Code" section
+    - Did you learn something new? Do you have some prior knowledge about the topics?
+    - Did you explore one of the [Optional] paths? If so, what did you learn? If not, what might be interesting to explore further?
+    - Do you foresee incorporating this into your workflow?  What barriers, advantages, or disadvantages might occur?
+2. Read the NeurIPS / PapersWithCode guide on "[Publishing Research Code](https://github.com/paperswithcode/releasing-research-code)." Summarize its main topics, AND pick one of the following topics to read further about:
+    - How would you define the terms "reproducibility" and "replicability?" What does the phrase "the replicability crisis" mean? (You might find it helpful to express this in terms of the entire inquiry process from data collection, to analysis, to publication). Cite the sources you read.
+    - There exist "Open Access Journals" where paper writing, reviewing, and publishing all occur in public. Find a paper that has already been reviewed and published and read the discussion between the authors, reviewers, and editors.(https://github.com/openjournals/joss-reviews/issues?q=is%3Aissue+is%3Aclosed+label%3Areview+). As an example, Alexander was a reviewer on this paper: https://github.com/openjournals/joss-reviews/issues/3465
+      - (You don't have to share the exact paper you read if you do not want to). What requirements did the submission process require up-front? What did reviewers request?
+      - What do you think about this process? Can you think of any advantages or disadvantages?
+3. Fork this `reu-latex-git-tutorial` repository to your GitHub profile, and use Overleaf's "Import from GitHub." Include a link to your "fork" in your blog post.
+
+---
+
 ## git Cheatsheet
 
 **First-time setup**:
