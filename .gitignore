@@ -1,3 +1,6 @@
+# Ignore the "compiled" main.pdf file
+main.pdf
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
