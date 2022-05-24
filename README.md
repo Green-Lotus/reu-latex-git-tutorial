@@ -1,4 +1,4 @@
-# $\LaTeX$ and git - ProHealth REU Summer 2022
+# LaTeX and git - ProHealth REU Summer 2022
 
 ## Abstract
 
